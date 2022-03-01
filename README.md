@@ -1,6 +1,9 @@
 I say ras
 ras
 ras dva tri
+ABOBA
+BOB
+OOO
 # 🚧 🚧 🚧
 ## react-native-camera is deprecated.
 
