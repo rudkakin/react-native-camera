@@ -1,6 +1,4 @@
-ABOBA
-BOB
-OOO
+Peter Pen
 # 🚧 🚧 🚧
 ## react-native-camera is deprecated.
 
