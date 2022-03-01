@@ -1,4 +1,5 @@
 Peter Pen
+Willem Dripfoe
 # 🚧 🚧 🚧
 ## react-native-camera is deprecated.
 
