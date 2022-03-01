@@ -1,5 +1,6 @@
 I say ras
 ras
+ras dva tri
 # 🚧 🚧 🚧
 ## react-native-camera is deprecated.
 
