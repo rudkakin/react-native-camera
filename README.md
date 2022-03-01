@@ -1,5 +1,6 @@
 Peter Pen
 Willem Dripfoe
+Lil Goblin
 # 🚧 🚧 🚧
 ## react-native-camera is deprecated.
 
